@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/css/main.39358bc89b96c091c636.css",
+      "PackagePath": "staticwebassets/css/main.39358bc89b96c091c636.css"
+    },
+    {
+      "Id": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/main.39358bc89b96c091c636.js",
+      "PackagePath": "staticwebassets/main.39358bc89b96c091c636.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SIGNALRWEBPACK.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SIGNALRWEBPACK.props",
+      "PackagePath": "build\\SIGNALRWEBPACK.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SIGNALRWEBPACK.props",
+      "PackagePath": "buildMultiTargeting\\SIGNALRWEBPACK.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SIGNALRWEBPACK.props",
+      "PackagePath": "buildTransitive\\SIGNALRWEBPACK.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

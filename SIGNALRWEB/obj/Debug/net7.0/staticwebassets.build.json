@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "ML5qz2WxFnFLdlR9aeos91l1DSBEXjcofVX3nlS8WQs=",
+  "Source": "SIGNALRWEBPACK",
+  "BasePath": "_content/SIGNALRWEBPACK",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SIGNALRWEBPACK/wwwroot",
+      "Source": "SIGNALRWEBPACK",
+      "ContentRoot": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/",
+      "BasePath": "_content/SIGNALRWEBPACK",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/css/main.39358bc89b96c091c636.css",
+      "SourceId": "SIGNALRWEBPACK",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/",
+      "BasePath": "_content/SIGNALRWEBPACK",
+      "RelativePath": "css/main.39358bc89b96c091c636.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/main.39358bc89b96c091c636.css"
+    },
+    {
+      "Identity": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/index.html",
+      "SourceId": "SIGNALRWEBPACK",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/",
+      "BasePath": "_content/SIGNALRWEBPACK",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/main.39358bc89b96c091c636.js",
+      "SourceId": "SIGNALRWEBPACK",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mrt/Desktop/CORE-APP/SIGNALRWEB/wwwroot/",
+      "BasePath": "_content/SIGNALRWEBPACK",
+      "RelativePath": "main.39358bc89b96c091c636.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/main.39358bc89b96c091c636.js"
+    }
+  ]
+}
